@@ -1,0 +1,235 @@
+/* ============================================================
+   Global document styling
+   ============================================================ */
+
+body {
+    font-family: "Georgia", "Times New Roman", serif;
+    color: #222222;
+    line-height: 1.6;
+    font-size: 17px;
+    background-color: #ffffff;
+}
+
+
+/* Main content width */
+.wy-nav-content {
+    max-width: 900px;
+}
+
+
+/* Remove excessive documentation-style spacing */
+.wy-nav-content-wrap {
+    background: #ffffff;
+}
+
+
+/* ============================================================
+   Typography
+   ============================================================ */
+
+h1 {
+    font-size: 2.0rem;
+    font-weight: 500;
+    color: #1a1a1a;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 0.35rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.2rem;
+}
+
+
+h2 {
+    font-size: 1.45rem;
+    font-weight: 500;
+    color: #333333;
+    margin-top: 2.2rem;
+    margin-bottom: 0.8rem;
+}
+
+
+h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #444444;
+    margin-top: 1.5rem;
+    margin-bottom: 0.3rem;
+}
+
+
+/* Prevent headings from becoming too heavy */
+h1,
+h2,
+h3 {
+    letter-spacing: 0.01em;
+}
+
+
+/* Paragraph spacing */
+p {
+    margin-top: 0.4rem;
+    margin-bottom: 0.8rem;
+}
+
+
+/* ============================================================
+   Resume metadata formatting
+   ============================================================ */
+
+strong {
+    color: #333333;
+    font-weight: 600;
+}
+
+
+/* Italic dates */
+em {
+    color: #555555;
+}
+
+
+/* ============================================================
+   Lists
+   ============================================================ */
+
+ul {
+    margin-top: 0.3rem;
+    margin-bottom: 1rem;
+}
+
+
+li {
+    margin-bottom: 0.25rem;
+}
+
+
+/* Slightly tighter nested lists */
+li > ul {
+    margin-bottom: 0.3rem;
+}
+
+
+/* ============================================================
+   Sidebar
+   ============================================================ */
+
+.wy-nav-side {
+    background: #242424;
+}
+
+
+.wy-menu-vertical a {
+    color: #dddddd;
+    font-family: "Georgia", "Times New Roman", serif;
+}
+
+
+.wy-menu-vertical a:hover {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+
+/* Current page highlight */
+.wy-menu-vertical a.current {
+    background-color: #3a3a3a;
+    color: #ffffff;
+}
+
+
+/* Sidebar header */
+.wy-side-nav-search {
+    background-color: #1e1e1e;
+}
+
+
+.wy-side-nav-search input {
+    border-radius: 0;
+}
+
+
+/* ============================================================
+   Links
+   ============================================================ */
+
+a {
+    color: #2b5876;
+}
+
+
+a:hover {
+    color: #16384f;
+}
+
+
+/* ============================================================
+   Code blocks (for future projects pages)
+   ============================================================ */
+
+code {
+    font-family: "Courier New", monospace;
+}
+
+
+pre {
+    border-radius: 0;
+}
+
+
+/* ============================================================
+   Tables (useful for project pages)
+   ============================================================ */
+
+table {
+    font-size: 0.95rem;
+}
+
+
+th {
+    font-weight: 600;
+}
+
+
+/* ============================================================
+   Images / figures
+   ============================================================ */
+
+img {
+    max-width: 100%;
+}
+
+
+.figure {
+    text-align: center;
+}
+
+
+/* ============================================================
+   Remove some ReadTheDocs visual elements
+   ============================================================ */
+
+/* Hide the "Built with MkDocs" footer */
+.rst-footer-buttons {
+    display: none;
+}
+
+
+/* Reduce the large page margins */
+.document {
+    width: 100%;
+}
+
+/* Homepage */
+
+body.homepage>div.container>div.row>div.col-md-3 {
+    display: none;
+}
+
+body.homepage>div.container>div.row>div.col-md-9 {
+    margin-left: 0;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.md-nav__title {
+    display: none;
+}
