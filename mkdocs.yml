@@ -1,0 +1,21 @@
+site_name: Alexander J. Hart
+
+theme:
+  name: material
+  palette:
+      primary: teal
+      accent: teal
+nav:
+  - Home: index.md
+  - Resume: resume.md
+  - Projects:
+      - Project 1: projects/project1.md
+      - Project 2: projects/project2.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - toc:
+      toc_depth: 1
+
+extra_css:
+  - css/extra.css
