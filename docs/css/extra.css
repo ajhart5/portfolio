@@ -230,3 +230,6 @@ body.homepage>div.container>div.row>div.col-md-9 {
     max-width: 100%;
 }
 
+.md-nav__title {
+    display: none;
+}
