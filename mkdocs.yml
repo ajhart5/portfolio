@@ -8,10 +8,10 @@ theme:
 nav:
   - Home: index.md
   - Resume: resume.md
-  - Projects:
-      - Project 1: projects/project1.md
-      - Project 2: projects/project2.md
-  - Contact: contact.md
+  # - Projects:
+  #     - Project 1: projects/project1.md
+  #     - Project 2: projects/project2.md
+  # - Contact: contact.md
 
 markdown_extensions:
   - toc:
