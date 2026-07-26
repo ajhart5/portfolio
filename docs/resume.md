@@ -109,9 +109,9 @@
 
 # Publications
 
-1. W. S. R. Souza, **A. J. Hart**, B. J. B. Fonseca, M. Tahernezhadi, and L. E. Christensen, "A Framework to Survey a Region for Gas Leaks Using an Unmanned Aerial Vehicle," *IEEE Access*, vol. 12, pp. 1386–1407, 2024. doi: 10.1109/ACCESS.2023.3345801.
+1. W. S. R. Souza, **A. J. Hart**, B. J. B. Fonseca, M. Tahernezhadi, and L. E. Christensen, "A Framework to Survey a Region for Gas Leaks Using an Unmanned Aerial Vehicle," IEEE Access, vol. 12, pp. 1386–1407, 2024. doi: 10.1109/ACCESS.2023.3345801.
 
-2. Christensen, L., Mansour, K., **Hart, A. J.**, Fonseca, B. J. B., Ning, Y., Wingar, S., Ponnampalam, N., Tran, T., Rae, R., and McKinnon, G., "Portable Tunable Laser Spectrometer (PTLS) for Human Exploration: Update on Lasers and Mesh Networking." *52nd International Conference on Environmental Systems (ICES)*, Calgary, Alberta, Canada, July 16–20, 2023. <https://hdl.handle.net/2346/94680>
+2. Christensen, L., Mansour, K., **Hart, A. J.**, Fonseca, B. J. B., Ning, Y., Wingar, S., Ponnampalam, N., Tran, T., Rae, R., and McKinnon, G., "Portable Tunable Laser Spectrometer (PTLS) for Human Exploration: Update on Lasers and Mesh Networking." 52nd International Conference on Environmental Systems (ICES), Calgary, Alberta, Canada, July 16–20, 2023. <https://hdl.handle.net/2346/94680>
 
 # Service
 
