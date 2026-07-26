@@ -15,6 +15,18 @@
 </tr>
 </table>
 
+# Certificates
+
+<table class="certificates-table">
+<tr>
+<td>Graduate Certificate,</td>
+<td>Power Systems Engineering,</td>
+<td>Iowa State University,</td>
+<td>2027</td>
+</tr>
+</table>
+
+
 # Experience
 
 <table class="experience-table">
