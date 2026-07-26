@@ -68,22 +68,18 @@
 
 .md-typeset table.experience-table td {
     border: none;
-    padding: 0.1rem 1.2rem 0.1rem 0;
+    padding: 0.1rem 1.5rem 0.1rem 0;
 }
 
 /* Wider content area */
+:root {
+    --md-grid-max-width: 1600px;
+}
+
 .md-grid {
-    max-width: 1400px;
+    max-width: 1600px;
 }
 
 .md-content {
-    max-width: 900px;
-}
-
-/* ============================================================
-   Homepage: remove heading numbers
-   ============================================================ */
-
-.home .md-typeset h1::before {
-    content: "";
+    max-width: 1000px;
 }
