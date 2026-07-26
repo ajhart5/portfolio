@@ -80,6 +80,10 @@
     max-width: 1600px;
 }
 
+.md-main__inner {
+    max-width: 1600px;
+}
+
 .md-content {
-    max-width: 1200px;
+    max-width: 1000px;
 }
