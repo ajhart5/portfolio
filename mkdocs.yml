@@ -3,8 +3,8 @@ site_name: Alexander J. Hart
 theme:
   name: material
   palette:
-      primary: teal
-      accent: teal
+      primary: blue
+      accent: orange
 nav:
   - Home: index.md
   - Resume: resume.md

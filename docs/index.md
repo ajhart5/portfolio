@@ -1,4 +1,4 @@
-# Welcome.
+# Welcome
 
 Welcome to my personal website. Here you can find information about my professional activities including my resume and projects. The content is a work in progress.
 
