@@ -86,3 +86,7 @@
 - Cantigny Park, Volunteer, Wheaton, IL, 2025.
 - Habitat for Humanity, Volunteer, Carol Stream, IL, 2025.
 - College Church, Volunteer, Wheaton, IL, 2024.
+
+---
+
+Page last updated August 15, 2026.
