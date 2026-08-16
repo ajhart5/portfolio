@@ -1,1 +1,0 @@
-[Resume](pdf/Resume_AHart_08132026_Public.pdf){:target="_blank"}

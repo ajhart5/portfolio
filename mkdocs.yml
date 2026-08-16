@@ -6,14 +6,13 @@ theme:
       primary: blue
       accent: orange
   features:
-    - navigation.expand
-    
+    - navigation.tabs
+
 nav:
   - Home: index.md
   - Personal Projects:
     - Transmission System Study: projectsPersonal/TransmissionSystemStudy.md
 #   - Academic Projects:
-  - Resume: resume.md
 
 markdown_extensions:
   - toc:
