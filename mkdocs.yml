@@ -15,6 +15,10 @@ nav:
 markdown_extensions:
   - toc:
       toc_depth: 1
+  - attr_list
+
+plugins:
+  - mkdocs-pdf
 
 extra_css:
   - css/extra.css
