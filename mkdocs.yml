@@ -9,7 +9,8 @@ theme:
     - navigation.tabs
 
 nav:
-  - Home: index.md
+  - Home: 
+    - Welcome: index.md
   - Personal Projects:
     - Transmission System Study: projectsPersonal/TransmissionSystemStudy.md
 #   - Academic Projects:
