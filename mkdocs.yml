@@ -5,6 +5,9 @@ theme:
   palette:
       primary: blue
       accent: orange
+  features:
+    - navigation.expand
+    
 nav:
   - Home: index.md
   - Personal Projects:
