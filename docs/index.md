@@ -6,7 +6,7 @@ I'm currently a Systems Engineer of three years at an aerospace manufacturing co
 
 If you are are interested in working with me, or you have questions about any of the information herein, please reach out to me via LinkedIn.
 
-[Resume](pdf/Resume_AHart_08132026_Public.pdf){:target="_blank"}
+[Resume](pdf/Resume_AHart_08172026_Public.pdf){:target="_blank"}
 
 ---
 
