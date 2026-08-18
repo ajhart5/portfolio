@@ -10,4 +10,4 @@ If you are are interested in working with me, or you have questions about any of
 
 ---
 
-Page last updated August 15, 2026.
+Page last updated August 17, 2026.
